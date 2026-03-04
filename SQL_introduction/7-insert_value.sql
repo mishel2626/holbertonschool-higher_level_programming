@@ -1,3 +1,2 @@
--- script to list all databases
-
-INSERT INTO first_table (id, name) VALUES (89, "Best School");
+-- script to insert values in the table
+INSERT INTO first_table (id,name) VALUES(89,'Best School')
